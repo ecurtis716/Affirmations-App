@@ -1,26 +1,10 @@
-Affirmations App - Starter Code
+Affirmations App - Starter Code + Implementation
 ================================
 
-Starter code for the Android Basics with Compose: Affirmations app.
+Project created as part of the Android Basics with Compose training course found at:
+https://developer.android.com/courses/android-basics-compose/course
 
+Forked the repository with the starter code, and added the finished implementation.
 
-Introduction
-------------
-The Affirmations app contains a scrollable list of 10 cards.
+https://github.com/user-attachments/assets/9616d134-ab83-448e-8607-c4bfd35c3ebd
 
-
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
-
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
-
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
